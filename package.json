@@ -1,0 +1,11 @@
+{
+  "name": "my-very-cool-npm",
+  "version": "0.1.0",
+  "description": "my-very-cool-npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea",
+  "license": "MIT"
+}
